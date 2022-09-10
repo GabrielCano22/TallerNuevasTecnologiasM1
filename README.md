@@ -1,4 +1,11 @@
 # TallerNuevasTecnologiasM1
-<p>
-  <img src="https://twitter.com/keithmrodz/status/1280884471785574408?lang=es" 
-</p>
+
+
+## Trabajo Realizado Por:
+
+### Gabriel Cano
+<p align="center"> 
+<img src="https://pbs.twimg.com/media/DbLDcyKUwAAnCVk.jpg" width="400" height="300"
+</p> 
+
+### Alexis Torres
